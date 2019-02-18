@@ -1,8 +1,9 @@
+
 h1{
   color: blue;
 }
 body{
-  background-image: url(file:///home/amir/Pictures/abstract-triangles.png);
+  background-image: url("../image/abstract-triangles.png");
 }
 p{
   text-align: center;
@@ -17,5 +18,5 @@ h3{
   text-align: center;
 }
 h3{
-  
+
 }
