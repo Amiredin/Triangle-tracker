@@ -15,10 +15,11 @@ Amir Edin
 |scalene no sides are equal|sideA=7<br> sideB=8<br> sideC=9 | scalene triangle |
 |Not a triangle |sideA=1<br> sideB=2<br> sideC=3 | not a triangle |
 ## Technologies used :
-*HTML
-*CSS
-*Java Script
+* HTML
+* CSS
+* Java Script
 ## Contacts 
 * Email: amiredin@yahoo.com
 * Telephone: 0757853395
 ## Licences and copyright
+
