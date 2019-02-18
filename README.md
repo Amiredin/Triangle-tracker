@@ -23,3 +23,6 @@ Amir Edin
 * Telephone: 0757853395
 ## Licences and copyright
 
+MIT License
+
+Copyright (c) 2019 Amiredin
